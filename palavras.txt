@@ -100,7 +100,7 @@ docs
 
 contactus
 
-files.
+files
 
 features
 
